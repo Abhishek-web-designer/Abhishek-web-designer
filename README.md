@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studing on Rajesh Pilot Govt. Polytechnic College, Dausa.
+- 🔭 I’m currently studing at Rajesh Pilot Govt. Polytechnic College, Dausa.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on youtube.
 - 🤔 I’m looking for help in web development.
